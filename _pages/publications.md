@@ -15,7 +15,7 @@ Eugene P. Rhee, Aditya Surapaneni, Zihe Zheng, Linda Zhou, Diptavo Dutta, Dan E.
 
 Manuscripts Under Revision
 ------
-Haoyu Zhang, Jianan Zhan, Jin Jin, **Jingning Zhang**, Thomas U Ahearn, Zhi Yu, Jared O’Connell, Yunxuan Jiang, Tony Chen, Montserrat Garcia-Closas, Xihong Lin, Bertram L Koelsch, Nilanjan Chatterjee, 23andMe Research Team. Novel Methods for Multi-ancestry Polygenic Prediction and their Evaluations in 3.7 Million Individuals of Diverse Ancestry. Under revision for Nature Genetics 2022+.
+Haoyu Zhang, Jianan Zhan, Jin Jin, **Jingning Zhang**, Thomas U Ahearn, Zhi Yu, Jared O’Connell, Yunxuan Jiang, Tony Chen, Montserrat Garcia-Closas, Xihong Lin, Bertram L Koelsch, Nilanjan Chatterjee, 23andMe Research Team. Novel Methods for Multi-ancestry Polygenic Prediction and their Evaluations in 3.7 Million Individuals of Diverse Ancestry. Under revision for Nature Genetics 2021+.
 
 
 
@@ -23,8 +23,8 @@ Manuscripts in Preparation
 ------
 **Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. Prepared for submission to Nature Methods. 2021+
 
-**Jingning Zhang**\*, Diptavo Dutta\*, Josef Coresh, Montserrat Garcia-Closas, Bing Yu, Eric Boerwinkle, Elizabeth Platz, Corinne Joshu, Aaron Folsom , Nilanjan Chatterjee. Proteomic Mediation of Genetic Risks of Cancers. 2021+ (\*Co-first author)
+**Jingning Zhang**\*, Diptavo Dutta\*, Josef Coresh, Montserrat Garcia-Closas, Bing Yu, Eric Boerwinkle, Elizabeth Platz, Corinne Joshu, Aaron Folsom , Nilanjan Chatterjee. Proteomic Mediation of Genetic Risks of Cancers. 2022+ (\*Co-first author)
 
-**Jingning Zhang**, Nilanjan Chatterjee. Theoretical quantification of the accuracy of multi-ancestry polygenic risk scores. 2021+
+**Jingning Zhang**, Nilanjan Chatterjee. Theoretical quantification of the accuracy of multi-ancestry polygenic risk scores. 2022+
 
 
