@@ -32,18 +32,18 @@ Professional Experience
 
 Honors and Awards
 ------
-PhD Examination Award (ranked 1st), Johns Hopkins University, 2019
-Excellent Academic Scholarship, Tsinghua University, 2016
-Princeton University Math Competition (PUMaC) rank  5th in Geometry (Division A), 2011
+PhD Examination Award (ranked 1st), Johns Hopkins University, 2019    
+Excellent Academic Scholarship, Tsinghua University, 2016    
+Princeton University Math Competition (PUMaC) rank  5th in Geometry (Division A), 2011    
 
 Contact
 ------
-Department of Biostatistics
-Bloomberg School of Public Health
-Johns Hopkins University
-E3036 BSPH, 615 N. Wolfe Street
-Baltimore, MD 21205
-
-Phone: (443) 739 - 3979
+Department of Biostatistics    
+Bloomberg School of Public Health    
+Johns Hopkins University    
+E3036 BSPH, 615 N. Wolfe Street    
+Baltimore, MD 21205    
+    
+Phone: (443) 739 - 3979    
 Email: <jnzhang629@gmail.com> / <jzhan218@jhu.edu>
 
