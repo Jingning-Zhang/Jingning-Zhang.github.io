@@ -27,7 +27,7 @@ Professional Experience
 &nbsp;&nbsp;&nbsp;&nbsp;Adviced by Dr. Nilanjan Chatterjee    
 *Teaching Assistant (Sept. 2019 -- Present)*    
 &nbsp;&nbsp;&nbsp;&nbsp;140.621-624: Statistical Methods in Public Health I-IV     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140.651-654: Methods in Biostatistics I-IV    
+&nbsp;&nbsp;&nbsp;&nbsp;140.651-654: Methods in Biostatistics I-IV    
 
 
 Honors and Awards
