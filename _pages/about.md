@@ -13,11 +13,6 @@ I am a PhD candidate in Biostatistics at Johns Hopkins University, advised by Pr
 [My research](https://scholar.google.com/citations?user=zsE5MgMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical methods for large-scale genetic, genomic, and clinical studies. Specifically, my areas of interest include statistical genetics, genetic risk prediction, and human plasma proteome.
 
 
-Education
-------
-May 2, 2022  Our paper on plasma proteome analyses was published in Nature Genetics.
-
-
 News
 ------
 May 2, 2022  Our paper on plasma proteome analyses was published in Nature Genetics.
