@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--- 
 
 **Jingning Zhang**, Diptavo Dutta, Anna Kottgen, Adrienne Tin, Pascal Schlosser, Morgan E. Grams, Benjamin Harvey, CKDGen Consortium, Bing Yu, Eric Boerwinkle, Josef Coresh, Nilanjan Chatterjee. Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies. Nature Genetics 54.5 (2022): 593-602. [\[Puslished manuscript\]](https://www.nature.com/articles/s41588-022-01051-w)
 
