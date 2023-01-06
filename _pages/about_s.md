@@ -18,18 +18,17 @@ Beijing, China
 
 Professional Experience
 ------
-**Eli Lilly and Company**
+**Eli Lilly and Company** Indianapolis, IN
 *Summer Intern (June 2022 -- Aug. 2022)*
-    Supervised by Dr. Yuanyuan Tang and Dr. Yongming Qu
-Indianapolis, IN
+Supervised by Dr. Yuanyuan Tang and Dr. Yongming Qu
 
-**Johns Hopkins University**
+**Johns Hopkins University** Baltimore, MD
 *Research Assistant (Sept. 2018 -- Present)*
-    Adviced by Dr. Nilanjan Chatterjee
+Adviced by Dr. Nilanjan Chatterjee
 *Teaching Assistant (Sept. 2019 -- Present)*
-    140.621-624: Statistical Methods in Public Health I-IV 
-    140.651-654: Methods in Biostatistics I-IV 
-Baltimore, MD
+140.621-624: Statistical Methods in Public Health I-IV 
+140.651-654: Methods in Biostatistics I-IV 
+
 
 Honors and Awards
 ------
