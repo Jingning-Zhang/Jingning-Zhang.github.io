@@ -15,7 +15,7 @@ I am a PhD candidate in Biostatistics at Johns Hopkins University, advised by Pr
 
 News
 ------
-May 2, 2022  Our paper on plasma proteome analyses was published in Nature Genetics.
+May 2, 2022  Our paper [\[link\]](https://www.nature.com/articles/s41588-022-01051-w) on plasma proteome analyses was published in Nature Genetics.
 
 
 <!-- 
