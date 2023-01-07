@@ -8,7 +8,7 @@ redirect_from:
   - /about0.html
 ---
 
-I am a PhD candidate in Biostatistics at Johns Hopkins University, advised by Professor [Nilanjan Chatterjee](https://nilanjanchatterjee.org/). I received an BS in Pure & Applied Mathematics from Tsinghua University in 2018, advised by Associate Professor [Lin Hou](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lin-hou/) and Professor [Ying Yang](https://www.math.tsinghua.edu.cn/info/1125/1624.htm).
+I am a PhD candidate in Biostatistics at Johns Hopkins University, advised by Professor [Nilanjan Chatterjee](https://nilanjanchatterjee.org/). I received an BS in Pure & Applied Mathematics from Tsinghua University in 2018, advised by Associate Professor [Lin Hou (侯琳)](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lin-hou/) and Professor [Ying Yang (杨瑛)](https://www.math.tsinghua.edu.cn/info/1125/1624.htm).
 
 [My research](https://scholar.google.com/citations?user=zsE5MgMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical methods for large-scale genetic, genomic, and clinical studies. Specifically, my areas of interest include statistical genetics, genetic risk prediction, and human plasma proteome.
 
