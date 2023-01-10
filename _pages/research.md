@@ -12,7 +12,7 @@ An ensemble penalized regression method for multi-ancestry polygenic risk predic
 ------
 **Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. Prepared for submission to Nature Methods 2021+ [\[Slides\]](https://github.com/Jingning-Zhang/PROSPER/blob/main/PROSPER.pdf)
 
-- Manuscript prepared for submission to \textit{Nature Methods}.
+- Manuscript prepared for submission to *Nature Methods*.
 - Proposed a novel method for generating multi-ancestry Polygenic Risk scOres based on enSemble of PEnalized Regression models (PROSPER) for predicting complex traits / disease risk using only genome-wide association studies (GWAS) summary statistics.
 - In simulation and real data analyses, PROSPER has substantial improvement compared to alternative methods across a wide variety of genetic architectures, and is an order of magnitude faster than an existing multi-ancestry method (PRS-CSx).
   
@@ -21,7 +21,7 @@ Plasma proteome analyses in individuals of European and African ancestry identif
 ------
 **Jingning Zhang**, Diptavo Dutta, Anna Kottgen, Adrienne Tin, Pascal Schlosser, Morgan E. Grams, Benjamin Harvey, CKDGen Consortium, Bing Yu, Eric Boerwinkle, Josef Coresh, Nilanjan Chatterjee. Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies. Nature Genetics 54.5 (2022): 593-602. [\[Puslished manuscript\]](https://www.nature.com/articles/s41588-022-01051-w)
 
-- Manuscript published on \textit{Nature Genetics 54.5 (2022): 593-602}.
+- Manuscript published on *Nature Genetics 54.5 (2022): 593-602*.
 - Proposed pipeline for cleaning and preprocessing high-throughput protein data measured by SomaScan assays, performed cis- protein quantitative trait loci (cis-pQTL) analysis in large bi-ancestry population from ARIC cohort, and studied the shared and distinct genetic architecture between the two ancestries. Performed fine-mapping for cis-pQTLs, and colocalization analysis with cis-eQTLs from GTEx project.
 - Built imputation models for plasma protein levels using machine learning method based on the cis-variants of corresponding protein-encoding gene, which can be used to conduct proteome-wide association studies (PWAS) in external dataset for identifying potential causal proteins for complex traits.
 - Demonstrated an application of PWAS for gout, resulting in the exemplary identification of the IL1RN protein that reveals the promise of the drug repurposing of anakinra to treat gout, which suggests utilizing our results to investigate the causal role of plasma proteins on complex traits and their drug repurposing potential.
