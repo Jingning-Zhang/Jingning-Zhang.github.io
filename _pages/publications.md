@@ -21,7 +21,7 @@ Haoyu Zhang, Jianan Zhan, Jin Jin, **Jingning Zhang**, Thomas U Ahearn, Zhi Yu, 
 
 Manuscripts in Preparation
 ------
-**Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. 2021+ (Prepared for submission to Nature Methods)
+**Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. Prepared for submission to Nature Methods 2021+ [\[Slides\]](https://github.com/Jingning-Zhang/PROSPER/blob/main/PROSPER.pdf)
 
 **Jingning Zhang**\*, Diptavo Dutta\*, Josef Coresh, Montserrat Garcia-Closas, Bing Yu, Eric Boerwinkle, Elizabeth Platz, Corinne Joshu, Aaron Folsom, Nilanjan Chatterjee. Proteomic Mediation of Genetic Risks of Cancers. 2022+ (\*Co-first author)
 
