@@ -38,7 +38,7 @@ Proteomic mediation of genetic risks of cancers
 
 Statistical Modeling for skewed data using mixed-effects model
 ------
-Advised by Dr.Yuanyuan Tang and Dr.Yongming Qu at Eli Lilly and Company, June 2022 -- Aug. 2022
+Advised by Dr. Yuanyuan Tang and Dr. Yongming Qu at Eli Lilly and Company, June 2022 -- Aug. 2022
 
 - In the framework of mixed-effects model (MM), I proposed a statistics to summarize the population-level treatment effect, e.g., change from baseline, and proposed an estimator for it. The estimator is constructed by integrating out the random effects, and therefore is comparable for MM with different distribution assumptions.
 - Derived the non-normal asymptotic distribution of the proposed estimator, proved its unbiasedness and consistency, and proposed an approach to build confidence interval for the proposed statistics.
