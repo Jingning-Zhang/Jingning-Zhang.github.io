@@ -7,15 +7,6 @@ author_profile: true
 
 My research interests lie primarily in developing statistical and computational methods to address public health problems by data integration from large datasets. Below I will introduce my current accomplishments in more detail.
 
-
-An ensemble penalized regression method for multi-ancestry polygenic risk prediction
-------
-**Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. Prepared for submission to Nature Methods 2021+ [\[Slides\]](https://github.com/Jingning-Zhang/PROSPER/blob/main/PROSPER.pdf)
-
-- Manuscript prepared for submission to *Nature Methods*.
-- Proposed a novel method for generating multi-ancestry Polygenic Risk scOres based on enSemble of PEnalized Regression models (PROSPER) for predicting complex traits / disease risk using only genome-wide association studies (GWAS) summary statistics.
-- In simulation and real data analyses, PROSPER has substantial improvement compared to alternative methods across a wide variety of genetic architectures, and is an order of magnitude faster than an existing multi-ancestry method (PRS-CSx).
-  
   
 Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies
 ------
@@ -27,6 +18,15 @@ Plasma proteome analyses in individuals of European and African ancestry identif
 - Demonstrated an application of PWAS for gout, resulting in the exemplary identification of the IL1RN protein that reveals the promise of the drug repurposing of anakinra to treat gout, which suggests utilizing our results to investigate the causal role of plasma proteins on complex traits and their drug repurposing potential.
 - Created a web resource for downloading summary statistics data and PWAS models with searchable options for exploring/viewing various results from our analyses ([http://nilanjanchatterjeelab.org/pwas](http://nilanjanchatterjeelab.org/pwas)).
 
+
+An ensemble penalized regression method for multi-ancestry polygenic risk prediction
+------
+**Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. Prepared for submission to Nature Methods 2021+ [\[Slides\]](https://github.com/Jingning-Zhang/PROSPER/blob/main/PROSPER.pdf)
+
+- Manuscript prepared for submission to *Nature Methods*.
+- Proposed a novel method for generating multi-ancestry Polygenic Risk scOres based on enSemble of PEnalized Regression models (PROSPER) for predicting complex traits / disease risk by integrating summary statistics from genome-wide association studies (GWAS) and individual-level reference data.
+- In simulation and real data analyses, PROSPER has substantial improvement compared to alternative methods across a wide variety of genetic architectures, and is an order of magnitude faster than an existing multi-ancestry method (PRS-CSx).
+  
 Proteomic mediation of genetic risks of cancers
 ------
 **Jingning Zhang**\*, Diptavo Dutta\*, Josef Coresh, Montserrat Garcia-Closas, Bing Yu, Eric Boerwinkle, Elizabeth Platz, Corinne Joshu, Aaron Folsom, Nilanjan Chatterjee. Proteomic Mediation of Genetic Risks of Cancers. 2022+ (\*Co-first author)
