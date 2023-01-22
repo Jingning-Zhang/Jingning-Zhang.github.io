@@ -27,4 +27,7 @@ Manuscripts in Preparation
 
 **Jingning Zhang**, Nilanjan Chatterjee. Theoretical quantification of the accuracy of multi-ancestry polygenic risk scores. 2022+
 
+Jin Jin, Jianan Zhan, **Jingning Zhang**, Ruzhang Zhao, 23andMe Research Team,  Steven Buyske, Christopher Gignoux, Christopher Haiman, Eimear E. Kenny, Charles Kooperberg, Kari North, Genevieve Wojcik,†, Haoyu Zhang, Nilanjan Chatterjee. ME-Bayes SL: Enhanced Bayesian Polygenic Risk Prediction Leveraging Information across Multiple Ancestry Groups. 2021+
+
+
 
