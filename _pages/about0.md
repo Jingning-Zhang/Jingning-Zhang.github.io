@@ -15,7 +15,7 @@ I am a PhD candidate in Biostatistics at Johns Hopkins University, advised by Pr
 
 News
 ------
-**Jan 27, 2023**: Our manuscript for multi-ancestry polygenic risk prediction ([PROSPER](https://github.com/Jingning-Zhang/PROSPER)) wins the Student Paper Award on the Risk Analysis Section, Joint Statistical Meetings
+**Jan 27, 2023**: Our manuscript for multi-ancestry polygenic risk prediction ([PROSPER](https://github.com/Jingning-Zhang/PROSPER)) wins the Student Paper Award on the Risk Analysis Section, Joint Statistical Meetings     
 **Dec 25, 2022**: Our software [PROSPER](https://github.com/Jingning-Zhang/PROSPER) for multi-ancestry polygenic risk prediction is available for use. [\[Slides\]](https://github.com/Jingning-Zhang/PROSPER/blob/main/PROSPER.pdf)      
 **May 2, 2022**:  Our [paper](https://www.nature.com/articles/s41588-022-01051-w) on plasma proteome analyses is published in Nature Genetics. The pQTL summary statistics and models for conducting proteome-wide association studies have been made [publicly available](http://nilanjanchatterjeelab.org/pwas).
 
