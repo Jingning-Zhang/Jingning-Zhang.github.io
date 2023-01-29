@@ -32,6 +32,7 @@ Professional Experience
 
 Honors and Awards
 ------
+Student Paper Award, Risk Analysis Section, Joint Statistical Meetings, 2023
 PhD Examination Award (ranked 1st), Johns Hopkins University, 2019    
 Excellent Academic Scholarship, Tsinghua University, 2016    
 Princeton University Math Competition (PUMaC) rank  5th in Geometry (Division A), 2011    
