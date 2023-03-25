@@ -15,7 +15,7 @@ Eugene P. Rhee, Aditya Surapaneni, Zihe Zheng, Linda Zhou, Diptavo Dutta, Dan E.
 
 Manuscripts Under Revision
 ------
-Haoyu Zhang, Jianan Zhan, Jin Jin, **Jingning Zhang**, Thomas U Ahearn, Zhi Yu, Jared O’Connell, Yunxuan Jiang, Tony Chen, Montserrat Garcia-Closas, Xihong Lin, Bertram L Koelsch, Nilanjan Chatterjee, 23andMe Research Team. Novel Methods for Multi-ancestry Polygenic Prediction and their Evaluations in 3.7 Million Individuals of Diverse Ancestry. Accepted by Nature Genetics. [\[Preprint\]](https://www.biorxiv.org/content/10.1101/2022.03.24.485519v3)
+Haoyu Zhang, Jianan Zhan, Jin Jin, **Jingning Zhang**, Thomas U Ahearn, Zhi Yu, Jared O’Connell, Yunxuan Jiang, Tony Chen, Montserrat Garcia-Closas, Xihong Lin, Bertram L Koelsch, Nilanjan Chatterjee, 23andMe Research Team. Novel Methods for Multi-ancestry Polygenic Prediction and their Evaluations in 3.7 Million Individuals of Diverse Ancestry. Accepted by Nature Genetics. [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2022.03.24.485519v3)
 
 **Jingning Zhang**, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O' Connell, Yunxuan Jiang, 23andMe Research Team, Bertram L Koelsch, Haoyu Zhang, Nilanjan Chatterjee. An ensemble penalized regression method for multi-ancestry polygenic risk prediction. [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2023.03.15.532652v1.abstract)
 
