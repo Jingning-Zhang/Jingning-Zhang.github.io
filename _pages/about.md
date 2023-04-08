@@ -47,5 +47,5 @@ E3036 BSPH, 615 N. Wolfe Street
 Baltimore, MD 21205    
     
 Phone: (443) 739 - 3979    
-Email: <jnzhang629@gmail.com> / <jzhan218@jhu.edu>
+Email: <jingningzhang238@gmail.com> / <jzhan218@jhu.edu>
 
